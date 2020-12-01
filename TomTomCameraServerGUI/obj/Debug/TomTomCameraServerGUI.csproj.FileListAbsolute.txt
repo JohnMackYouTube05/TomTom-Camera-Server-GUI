@@ -1,0 +1,13 @@
+C:\Users\liljm\Source\Repos\JohnMackYouTube05\TomTom-Camera-Server-GUI\TomTomCameraServerGUI\bin\Debug\TomTomCameraServerGUI.exe.config
+C:\Users\liljm\Source\Repos\JohnMackYouTube05\TomTom-Camera-Server-GUI\TomTomCameraServerGUI\bin\Debug\TomTomCameraServerGUI.exe
+C:\Users\liljm\Source\Repos\JohnMackYouTube05\TomTom-Camera-Server-GUI\TomTomCameraServerGUI\bin\Debug\TomTomCameraServerGUI.pdb
+C:\Users\liljm\Source\Repos\JohnMackYouTube05\TomTom-Camera-Server-GUI\TomTomCameraServerGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\liljm\Source\Repos\JohnMackYouTube05\TomTom-Camera-Server-GUI\TomTomCameraServerGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\liljm\Source\Repos\JohnMackYouTube05\TomTom-Camera-Server-GUI\TomTomCameraServerGUI\obj\Debug\TomTomCameraServerGUI.csprojAssemblyReference.cache
+C:\Users\liljm\Source\Repos\JohnMackYouTube05\TomTom-Camera-Server-GUI\TomTomCameraServerGUI\obj\Debug\TomTomCameraServerGUI.btnGetStatus.resources
+C:\Users\liljm\Source\Repos\JohnMackYouTube05\TomTom-Camera-Server-GUI\TomTomCameraServerGUI\obj\Debug\TomTomCameraServerGUI.Properties.Resources.resources
+C:\Users\liljm\Source\Repos\JohnMackYouTube05\TomTom-Camera-Server-GUI\TomTomCameraServerGUI\obj\Debug\TomTomCameraServerGUI.csproj.GenerateResource.cache
+C:\Users\liljm\Source\Repos\JohnMackYouTube05\TomTom-Camera-Server-GUI\TomTomCameraServerGUI\obj\Debug\TomTomCameraServerGUI.csproj.CoreCompileInputs.cache
+C:\Users\liljm\Source\Repos\JohnMackYouTube05\TomTom-Camera-Server-GUI\TomTomCameraServerGUI\obj\Debug\TomTomCameraServerGUI.csproj.CopyComplete
+C:\Users\liljm\Source\Repos\JohnMackYouTube05\TomTom-Camera-Server-GUI\TomTomCameraServerGUI\obj\Debug\TomTomCameraServerGUI.exe
+C:\Users\liljm\Source\Repos\JohnMackYouTube05\TomTom-Camera-Server-GUI\TomTomCameraServerGUI\obj\Debug\TomTomCameraServerGUI.pdb
